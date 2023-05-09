@@ -1,0 +1,15 @@
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.exe
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.deps.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.runtimeconfig.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.csproj.AssemblyReference.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\refint\SingleResponsibilityPrinciple.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\ref\SingleResponsibilityPrinciple.dll

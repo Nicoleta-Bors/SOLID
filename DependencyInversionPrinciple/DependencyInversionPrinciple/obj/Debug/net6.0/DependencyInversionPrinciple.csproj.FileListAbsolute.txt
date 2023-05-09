@@ -1,0 +1,15 @@
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.exe
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.deps.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.runtimeconfig.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfo.cs
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\refint\DependencyInversionPrinciple.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.genruntimeconfig.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\ref\DependencyInversionPrinciple.dll

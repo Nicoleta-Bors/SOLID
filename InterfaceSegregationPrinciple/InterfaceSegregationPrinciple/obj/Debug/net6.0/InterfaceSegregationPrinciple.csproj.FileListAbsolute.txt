@@ -1,0 +1,15 @@
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.exe
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.deps.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.runtimeconfig.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\refint\InterfaceSegregationPrinciple.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.genruntimeconfig.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\ref\InterfaceSegregationPrinciple.dll

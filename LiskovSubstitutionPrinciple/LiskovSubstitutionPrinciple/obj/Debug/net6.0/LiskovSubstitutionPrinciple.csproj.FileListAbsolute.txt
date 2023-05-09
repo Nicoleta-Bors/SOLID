@@ -1,0 +1,15 @@
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.exe
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.deps.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.runtimeconfig.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net6.0\LiskovSubstitutionPrinciple.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\refint\LiskovSubstitutionPrinciple.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\LiskovSubstitutionPrinciple.genruntimeconfig.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab4\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net6.0\ref\LiskovSubstitutionPrinciple.dll
