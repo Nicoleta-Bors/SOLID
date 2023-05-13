@@ -13,7 +13,7 @@ namespace OpenClosedPrinciple
             decimal price = 0;
             foreach (var item in menu)
             {
-                price += item.Price * 1.1m; // Adăugăm 10% pentru meniul de weekend
+                price += item.Price * 1.1m;
             }
             return price;
         }
